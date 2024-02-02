@@ -7,7 +7,7 @@ Welcome to the PERT Chart Visualization repository! This user-friendly web appli
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/pert-chart-visualization.git
+   git clone https://github.com/mattdeweyx/pert-chart-visualization.git
 2. Open the index.html file in a web browser to view and customize your PERT chart.
 
 ## Features
